@@ -1,0 +1,73 @@
+anaconda-anon-usage @ file:///C:/b/abs_c3w_h1zzjg/croot/anaconda-anon-usage_1710965204622/work
+archspec @ file:///croot/archspec_1709217642129/work
+asgiref==3.8.1
+boltons @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/boltons_1699480450092/work
+Brotli @ file:///C:/b/abs_3d36mno480/croot/brotli-split_1714483178642/work
+cachetools==5.4.0
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1720457958366/work/certifi
+cffi @ file:///C:/b/abs_78eb1_vq6z/croot/cffi_1714483206096/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.7
+colorama @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/colorama_1699472650914/work
+comtypes==1.4.5
+conda @ file:///D:/bld/conda_1722273339559/work
+conda-content-trust @ file:///C:/b/abs_bdfatn_wzf/croot/conda-content-trust_1714483201909/work
+conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1706733287605/work/src
+conda-package-handling @ file:///C:/b/abs_831_pypuuz/croot/conda-package-handling_1718138287790/work
+conda_package_streaming @ file:///C:/b/abs_fe6zb0_j8_/croot/conda-package-streaming_1718136098642/work
+cryptography @ file:///C:/b/abs_97lgskwerx/croot/cryptography_1714664736250/work
+distro @ file:///C:/b/abs_71xr36ua5r/croot/distro_1714488282676/work
+Django==5.0.7
+frozendict @ file:///C:/b/abs_2alamqss6p/croot/frozendict_1713194885124/work
+google-api-core==2.19.1
+google-api-python-client==2.139.0
+google-auth==2.32.0
+google-auth-httplib2==0.2.0
+googleapis-common-protos==1.63.2
+httplib2==0.22.0
+idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
+joblib==1.4.2
+jsonpatch @ file:///C:/b/abs_4fdm88t7zi/croot/jsonpatch_1714483974578/work
+jsonpointer==2.1
+libmambapy @ file:///C:/b/abs_89suv9zwkz/croot/mamba-split_1714484512428/work/libmambapy
+menuinst @ file:///C:/b/abs_e7zsrwvoy0/croot/menuinst_1718132546150/work
+mkl-fft @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mkl_fft_1699473528480/work
+mkl-random @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mkl_random_1699473588250/work
+mkl-service==2.4.0
+nltk==3.8.1
+numpy @ file:///C:/b/abs_c1ywpu18ar/croot/numpy_and_numpy_base_1708638681471/work/dist/numpy-1.26.4-cp312-cp312-win_amd64.whl#sha256=becc06674317799ad0165a939a7613809d0bee9bd328a1e4308c57c39cacf08c
+opencv-python==4.10.0.84
+opencv-python-headless==4.10.0
+packaging @ file:///C:/b/abs_cc1h2xfosn/croot/packaging_1710807447479/work
+platformdirs @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/platformdirs_1701797392447/work
+pluggy @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pluggy_1699472504117/work
+proto-plus==1.24.0
+protobuf==5.27.3
+pyasn1==0.6.0
+pyasn1_modules==0.4.0
+PyAudio==0.2.14
+pycosat @ file:///C:/b/abs_5csdern___/croot/pycosat_1714513102923/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydub==0.25.1
+pyparsing==3.1.2
+pypiwin32==223
+PySocks @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pysocks_1699473336188/work
+pyttsx3==2.90
+pywin32==306
+regex==2024.7.24
+requests @ file:///C:/b/abs_9c5n24p1y7/croot/requests_1716902867639/work
+rsa==4.9
+ruamel.yaml @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/ruamel.yaml_1699483184324/work
+setuptools==69.5.1
+SpeechRecognition==3.10.4
+sqlparse==0.5.1
+tqdm @ file:///C:/b/abs_a7h7n45ccq/croot/tqdm_1716395987133/work
+truststore @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/truststore_1701881385424/work
+typing_extensions==4.12.2
+tzdata==2024.1
+uritemplate==4.1.1
+urllib3 @ file:///C:/b/abs_a7hvzm4y95/croot/urllib3_1718912661242/work
+wheel==0.43.0
+Wikipedia-API==0.6.0
+win-inet-pton @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/win_inet_pton_1699472992992/work
+zstandard==0.23.0
